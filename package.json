@@ -1,0 +1,26 @@
+{
+  "name": "CyberCraft1366387813947184",
+  "version": "1.0.0",
+  "description": "CyberCraft is your digital playground for crafting secure",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/tyzsenyi/CyberCraft1366387813947184.git"
+  },
+  "keywords": [
+  "sample",
+  "npm",
+  "package"
+  ],
+  "author": "tyzsenyi",
+  "license": "MIT",
+  "dependencies": {
+  "lodash": "^4.17.21",
+  "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+  "react": ">=16.8.0",
+  "react-dom": ">=16.8.0"
+  }
+  }
